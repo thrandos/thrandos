@@ -7,6 +7,8 @@
 [<img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg">](https://www.curseforge.com/members/thrandos/projects)
 [<img alt="discord-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg">](https://discordapp.com/users/1050181410494873600)
 
+https://github-readme-stats.hackclub.dev/api/wakatime?username=18148&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+
 When ALL the emails are "important", NONE of them are.
 
 I'm learning Java, HTML, and countless other things. I know my way around Azure/AWS, much of the Adobe suite, and way too much of developer-side Minecraft. I use VSCode/Visual Studio, NetBeans, and sometimes just Notepad, but that doesn't count.
