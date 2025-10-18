@@ -1,6 +1,6 @@
 <img src="https://cdn.modrinth.com/data/cached_images/70593e21b5e98c9ae8b993b0c7955d038b5a1469.gif" width="300" height="300">
 
-# **<font color=blue>Hi, I'm Thrandos!</font>**
+# **<font color=blue>Hi, I'm Matin!</font>**
 
 [<img alt="kofi-singular-alt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg">](https://ko-fi.com/thrandos)
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg">](https://modrinth.com/user/Thrandos)
