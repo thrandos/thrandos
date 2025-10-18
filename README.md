@@ -9,6 +9,6 @@
 
 ![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=18148&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
-I'm learning Java, HTML, and countless other things. I know my way around Azure/AWS, much of the Adobe suite, and way too much of developer-side Minecraft. I use VSCode/Visual Studio, NetBeans, and sometimes just Notepad, but that doesn't count.
+Most of my coding knowledge is in Java and HTML, though I am by no means an expert in either of these. I'm learning Java, C++, React, and countless other things. I know my way around Azure/AWS, much of the Adobe suite; mainly , Figma and way too much of developer-side Minecraft. I use VSCode/Visual Studio, NetBeans, and sometimes just Notepad!
 
 In terms of non-programming things, I'm getting pretty good at Davinci Resolve, Avid, and Unity. I've also played around with Linux, mainly Debian and Ubuntu.
