@@ -2,13 +2,21 @@
 
 # **<font color=blue>Hi, I'm Matin!</font>**
 
-[<img alt="kofi-singular-alt" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg">](https://ko-fi.com/thrandos)
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg">](https://modrinth.com/user/Thrandos)
 [<img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg">](https://www.curseforge.com/members/thrandos/projects)
 [<img alt="discord-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg">](https://discordapp.com/users/1050181410494873600)
 
 ![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=18148&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
-Most of my coding knowledge is in Java and HTML, though I am by no means an expert in either of these. I'm learning Java, C++, React, and countless other things. I know my way around Azure/AWS, much of the Adobe suite; mainly , Figma and way too much of developer-side Minecraft. I use VSCode/Visual Studio, NetBeans, and sometimes just Notepad!
 
-In terms of non-programming things, I'm getting pretty good at Davinci Resolve, Avid, and Unity. I've also played around with Linux, mainly Debian and Ubuntu.
+Soon I'll get to put cool stuff here, once I make the cool stuff.
+## My knowledge
+### Coding
+Most of my coding knowledge is in Java and HTML/CSS, though I am by no means an expert in either of these. I google a lot of things and get confused. I use VSCode NetBeans, and sometimes just Notepad!
+### Information Technologies
+I know my way around Azure. I'm experienced with Docker. In terms of operating systems, I'm getting better at working with Ubuntu Server and Windows Server 2025. I tried MongoDB in July and it was very scary
+I've put together web servers, PHP servers, firewalls, and Minecraft servers.
+### Design
+I'm proficient in Figma, Cavalry, Webflow, Markdown?, and am trying to move to Illustrator. I think I'm pretty sensible with frontend development? I also made a website that was pretty fun
+### Other
+In terms of non-programming things, I'm getting pretty good at Davinci Resolve, Avid, Blender and Unity. I also know a lot about developer-side Minecraft. A lot!
