@@ -9,14 +9,4 @@
 ![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=18148&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
 
-Soon I'll get to put cool stuff here, once I make the cool stuff.
-## My knowledge
-### Coding
-Most of my coding knowledge is in Java and HTML/CSS, though I am by no means an expert in either of these. I google a lot of things and get confused. I use VSCode NetBeans, and sometimes just Notepad!
-### Information Technologies
-I know my way around Azure. I'm experienced with Docker. In terms of operating systems, I'm getting better at working with Ubuntu Server and Windows Server 2025. I tried MongoDB in July and it was very scary
-I've put together web servers, PHP servers, firewalls, and Minecraft servers.
-### Design
-I'm proficient in Figma, Cavalry, Webflow, Markdown?, and am trying to move to Illustrator. I think I'm pretty sensible with frontend development? I also made a website that was pretty fun
-### Other
-In terms of non-programming things, I'm getting pretty good at Davinci Resolve, Avid, Blender and Unity. I also know a lot about developer-side Minecraft. A lot!
+hi!
