@@ -2,6 +2,4 @@
 
 # **<font color=blue>Hi, I'm Matin!</font>**
 
-[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg">](https://modrinth.com/user/Thrandos)
-[<img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg">](https://www.curseforge.com/members/thrandos/projects)
-[<img alt="discord-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg">](https://discordapp.com/users/1050181410494873600)
+I am making cool things.
