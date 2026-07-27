@@ -13,7 +13,7 @@ There are a lot of things I want to do. Hopefully someday I'll be able to do the
 
 I am currently:
 > - trying to get better at programming
-> - working on a launcher & server network for my Minecraft project Coastline
+> - working on a launcher & server platform for my Minecraft project Coastline
 > - doing some hardware projects
 > - coming up with ideas faster than I can do anything about them
 
