@@ -15,7 +15,9 @@ I am currently:
 > - trying to get better at programming
 > - working on a launcher & server network for my Minecraft project Coastline
 > - doing some hardware projects
-> - learning big-people frontend development (aka JS frameworks)
+> - coming up with ideas faster than I can do anything about them
+
+You should use [Obsidian](https://obsidian.md), it's pretty cool!
 
 Want to talk to me? email at hi@thrandos.com
 
